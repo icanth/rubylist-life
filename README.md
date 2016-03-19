@@ -1,3 +1,6 @@
+#2016/03/19
+今天弄通了SpringBoot+Groovy+SpringDataJpa！Cool〜下周的目标是ServiceApi！为了三化的目标而奋斗！！！顺手写了一个brew install软件开发环境，很酷、这样的路子〜
+
 #2016/03/18
 最近这一周写了一个配置JAVA_HOME的脚本，还有一个gpp的bash脚本，从此git add、git commit -am、git push三个动作合一而行了。cool〜用起来非常方便，bash shell因为其运行环境更为通用，也很锋利〜这周的目标是搭建gradle+groovy+springboot+jsonrpc的后端微服务，三化思想真正发挥威力的时刻到啦〜
 
